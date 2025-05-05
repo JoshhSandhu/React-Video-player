@@ -1,0 +1,22 @@
+.search-bar input{
+    width: 75%;
+}
+
+.video-item details{
+    max-width: 64px;
+}
+
+.video-details .deatils{
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px soild #ddd;
+    border-radius: 10px;
+}
+
+.list-group-item{
+    cursor: pointer;
+}
+
+.list-group-item:hover{
+    background-color: grey;
+}
